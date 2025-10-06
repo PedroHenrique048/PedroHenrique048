@@ -1,6 +1,7 @@
 ## Olá, sou o Pedro Henrique!🌟 <br>
 
 Estou atualmente cursando desenvolvimento de jogos no Senai <br> <br>
+Pretendo me especializar em programação geral <br>
 Contato para E-mail: phenriquechaves03@gmail.com<br> 
 
 ## FERRAMENTAS DE TRABALHO:
