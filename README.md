@@ -1,6 +1,6 @@
 ## Olá, sou o Pedro Henrique!🌟 <br>
 
-É um repositório feito em aula para fazer comits. <br> <br>
+Estou atualmente cursando desenvolvimento de jogos no ## Senai <br> <br>
 Bora lá!<br> <br>
 
 ## FERRAMENTAS DE TRABALHO:
