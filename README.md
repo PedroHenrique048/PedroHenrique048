@@ -1,4 +1,4 @@
-## Olá, sou o Pedro Henrique! <br>
+## Olá, sou o Pedro Henrique!🌟 <br>
 
 É um repositório feito em aula para fazer comits. <br> <br>
 Bora lá!<br> <br>
